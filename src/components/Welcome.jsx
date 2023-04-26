@@ -16,7 +16,7 @@ function Welcome(props) {
       </button>
       <div className="para">
         <h1>Hey! {props.title}</h1>
-        <h3>Welcome to Lovely Professional University</h3>
+        <h3>Welcome to Lovely Professional University, Jalandhar</h3>
       </div>
     </div>
   );
